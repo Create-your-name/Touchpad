@@ -26,7 +26,7 @@ python控制电脑的本质就是模拟电脑按下快捷键，这里切换工�
 
 ## 说明
 
-PCB我不知道怎么开源，但是我画板子的时候主要参考的就是这个，就是我的布局看起来比他的更紧凑一下，但是事实证明紧凑并不是很好，容易一下子按两个了，所以我觉得这位大哥的板子挺不错的，大家可以直接打他的（立创EDA免费打板现在需要领券） https://oshwhub.com/irongu/BS814A-1chu-mo-an-jian-mu-kuai
+PCB我不知道怎么开源，但是我画板子的时候主要参考的就是这个 https://oshwhub.com/irongu/BS814A-1chu-mo-an-jian-mu-kuai
 
 怎么让代码运行在后台：
 
